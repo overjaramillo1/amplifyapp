@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>HOLA CONFA</code>
+          <h1>Confa 2</h1>
         </p>
         <a
           className="App-link"
