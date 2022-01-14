@@ -9,8 +9,6 @@ function App() {
         <p>
           <code>HOLA CONFA</code>
           <h1>Confa 2</h1>
-          <h1>Confa 3</h1>
-          <h1>Confa 4-React...</h1>
         </p>
         <a
           className="App-link"
